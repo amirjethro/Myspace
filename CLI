@@ -1,0 +1,72 @@
+ROOT 
+  
+/BIN 
+-binaries 
+-programs 
+-applications 
+-were all the basic functions is stored here 
+-e.g ls cat 
+  
+/SBIN 
+-system binary 
+  
+/BOOT 
+-boot loaders live here 
+  
+/DEV 
+-were you find your hard disk 
+  
+/ETC 
+-were you find configurations are stored 
+-list of all resources 
+-eg libre office 
+  
+/home 
+  
+/LIB (lib32 and lin64) 
+-this is the library 
+  
+/MNT AND /MEDIA 
+-mounted drives  
+-usb stick external hard drive 
+  
+/OPT 
+-optional folder 
+-usually manually installed software from vendors resides 
+-eg VPN installed 
+  
+/PROC 
+-where you can find SUDO files contain information about system process and resources 
+  
+/ROOT 
+-root is the root users home folder 
+  
+/RUN 
+-ram 
+  
+/SNAP 
+-ubuntu snap packages are completely self contained applications that run 
+  
+/SRV 
+-service directory where service dara is stored 
+  
+/SYS 
+-system folder 
+-interact with the kernel 
+  
+/TMP 
+-temp 
+-temporary directory 
+-tempprarily stored by the applications 
+  
+/USR 
+-this is the user application space where applications will be installed that are used by the user  
+-UNIX system resource and any applications 
+  
+/VAR 
+-variable directory it contains files and directories that are expected to grow in size 
+  
+/HOME 
+-home folder where you can store your personal files and documents 
+ 
+
